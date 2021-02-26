@@ -12,6 +12,8 @@ The Analysis devolopen on this code are:
 - Determination of drought periods with Fixed and Variable thresholds.
 - Determinarion of discharge curves.
 
+.....
+
 """
 
 #%% Load packages
