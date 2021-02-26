@@ -1,4 +1,4 @@
-# [Drough CAMELS]
+# [Droughts CAMELS]
 
 ## Project organization
 - PG = project-generated
